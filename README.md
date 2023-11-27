@@ -24,5 +24,8 @@ La farmacia, al contar con recursos de información tanto a nivel interno como e
 𝑶𝒑𝒊𝒏𝒊𝒐𝒏𝒆𝒔 𝒅𝒆𝒍 𝑪𝒍𝒊𝒆𝒏𝒕𝒆: Comentarios, reseñas y opiniones de los clientes en línea y en redes sociales que proporcionan retroalimentación sobre la experiencia del cliente.
 Por otro lado, dentro de la Farmacia Mar de la Esperanza, se ha establecido un enfoque flexible en la distribución de información. La elección de cómo se comparte la información se basa en varios factores, incluyendo la urgencia de la comunicación, la naturaleza específica de la información y las preferencias individuales de comunicación de los empleados. Este enfoque adaptable garantiza que la farmacia pueda mantener una comunicación efectiva y eficiente en función de las necesidades específicas de cada situación, lo que contribuye a la coordinación fluida y a la transmisión de información en un entorno de trabajo dinámico.
 
+
+ORGANIGRAMA
+La elaboración de un organigrama específico para la gestión de la intranet ayudará a establecer roles y responsabilidades claros para los profesionales de tecnología y contenido, así como para los demás departamentos involucrados. Esta estructura permitirá una coordinación efectiva en el mantenimiento, actualización y expansión de la intranet. Además, el organigrama de la intranet ayudará a los empleados a comprender cómo acceder y utilizar la plataforma, mejorando la adopción y el aprovechamiento de esta valiosa herramienta de comunicación interna.
 ![image](https://github.com/giovanyosorio/MEDIA-VALUE/assets/30839218/202ff0d7-9111-4d6a-99c8-724362a1f7d3)
 
