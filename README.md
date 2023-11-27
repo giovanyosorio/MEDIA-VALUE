@@ -29,3 +29,24 @@ ORGANIGRAMA
 La elaboración de un organigrama específico para la gestión de la intranet ayudará a establecer roles y responsabilidades claros para los profesionales de tecnología y contenido, así como para los demás departamentos involucrados. Esta estructura permitirá una coordinación efectiva en el mantenimiento, actualización y expansión de la intranet. Además, el organigrama de la intranet ayudará a los empleados a comprender cómo acceder y utilizar la plataforma, mejorando la adopción y el aprovechamiento de esta valiosa herramienta de comunicación interna.
 ![image](https://github.com/giovanyosorio/MEDIA-VALUE/assets/30839218/202ff0d7-9111-4d6a-99c8-724362a1f7d3)
 
+
+
+Ana Gómez, 34 años, Madrid: "Descubrí MEDIA-VALUE buscando una farmacia confiable online. Me sorprendió la rapidez con la que recibí mis medicamentos. ¡Excelente servicio!"
+
+Carlos Ruiz, 50 años, Barcelona: "Siempre he tenido dudas sobre comprar medicinas por internet, pero con MEDIA-VALUE me he sentido completamente seguro. Su atención al cliente es de primera."
+
+Lorena Sánchez, 28 años, Sevilla: "MEDIA-VALUE tiene una variedad impresionante de productos. Encontré exactamente lo que necesitaba y a un precio muy competitivo."
+
+Jorge Martínez, 45 años, Valencia: "Lo que más valoro de MEDIA-VALUE es la calidad de sus productos. Siempre recibo exactamente lo que ordeno, en perfecto estado y a tiempo."
+
+Sofía Vázquez, 60 años, Bilbao: "Como persona mayor, aprecio mucho la facilidad de uso de la página web de MEDIA-VALUE. Hacer mi pedido fue sencillo y la entrega fue muy rápida."
+
+Miguel Ángel Torres, 37 años, Zaragoza: "He utilizado MEDIA-VALUE para pedidos recurrentes de mis medicamentos crónicos. Su servicio de suscripción es fiable y cómodo."
+
+Elena García, 32 años, Málaga: "Gracias a MEDIA-VALUE, pude conseguir medicamentos especializados que no encontraba en otras farmacias. ¡Su catálogo es excelente!"
+
+Luis Fernández, 40 años, Alicante: "La atención personalizada de MEDIA-VALUE es lo que me ha fidelizado como cliente. Siempre siento que realmente se preocupan por mi bienestar."
+
+Marta Rodríguez, 55 años, Granada: "Como profesional de la salud, recomiendo MEDIA-VALUE a mis pacientes. Su precisión y responsabilidad en el manejo de los medicamentos es admirable."
+
+Diego López, 29 años, Córdoba: "Lo que más me gusta de MEDIA-VALUE es su responsabilidad ambiental. Ofrecen opciones ecológicas que otras farmacias no tienen. ¡Es un gran plus!"
