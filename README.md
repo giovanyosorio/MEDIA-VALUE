@@ -1,5 +1,6 @@
 # MEDIA-VALUE
-
+Intranet con Windows server 🪟 2019 
+y Windows 🪟 10 como cliente
 
 En un esfuerzo constante por mantener su posición como un referente en la prestación de servicios farmacéuticos de alta calidad, la Farmacia Mar de la Esperanza ha estado enfocada en la mejora continua y la optimización de sus procesos internos. La implementación de una intranet se ha convertido en un paso crucial en esta búsqueda de eficiencia y calidad en la atención al cliente. Este proyecto tiene como objetivo principal establecer una plataforma tecnológica que mejore de manera significativa la colaboración interna y la gestión de información en toda la organización.
 La Farmacia Mar de la Esperanza tiene la visión de integrar esta intranet en su estrategia de negocios, con la intención de fortalecer sus relaciones con los clientes, optimizar la gestión de inventarios y ofrecer un servicio de máxima calidad. La integración de esta tecnología debería conducir a una mayor satisfacción del cliente y, en última instancia, a un impacto positivo en la rentabilidad de la farmacia.
